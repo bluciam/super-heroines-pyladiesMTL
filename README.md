@@ -17,3 +17,8 @@ The idea is that you all have write access so you can directly make a change in 
 ## More
 
 We will make this project better as we gather all of your ideas!
+
+## Collaborations
+
+- If you think you should be a collaborato, drop me a line and tell me why.
+- If you do not want to be collaborator and you are one, let me know, and I will delete your name from the list. 
