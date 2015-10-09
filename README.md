@@ -1,8 +1,10 @@
 # super-heroines-pyladiesMTL
-## Good girls rarely make history
+## Well behaved women rarely make history
+
+*Good girls rarely make history*
 
 *Good girls go to heaven. Bad girls go EVERYwhere.*
-*Well behaved women rarely make history.*
+
 
 This repository will be used to play as collaborators.
 
